@@ -1,0 +1,13 @@
+supplier_id,supplier_name,category,country
+1,Apex Components,Electronics,USA
+2,Northwind Metals,Raw Materials,Canada
+3,Pacific Packaging,Packaging,Vietnam
+4,Sterling Plastics,Raw Materials,USA
+5,Meridian Circuits,Electronics,Taiwan
+6,BlueRiver Logistics Supply,MRO,Mexico
+7,Kestrel Fasteners,MRO,Germany
+8,Orion Textiles,Packaging,India
+9,Summit Chemicals,Raw Materials,USA
+10,Harbor Industrial,MRO,China
+11,Vertex Electronics,Electronics,Korea
+12,Lakeside Cartons,Packaging,USA
